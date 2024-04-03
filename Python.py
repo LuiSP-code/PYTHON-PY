@@ -1,1 +1,6 @@
-print(Hola mundo)
+a=20
+b='20'
+c= a+b
+print(c)
+#RESULTADO>>> 2020
+
